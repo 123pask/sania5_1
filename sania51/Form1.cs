@@ -28,7 +28,7 @@ public class Form1 : Form
         // 2 Квадрат, сторони якого НЕ паралельні осям
         // Рахуємо 4 вершини квадрата вручну, повернутого на angel градусів
 
-        float cx = 600, cy = 200;
+        float cx = 700, cy = 200;
         float side = 300;
         float angle = 45; //градус повороту 
         float rad = angle * (float)Math.PI / 180f; // перевод  в радіани
